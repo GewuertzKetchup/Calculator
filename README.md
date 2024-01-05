@@ -7,7 +7,7 @@ This is a calculator that can add, subtract, multiply, and also divide. It is in
 
 ## Installation 
 
-Here you can get the latest version of the calculator [Here]([url](https://github.com/GewuertzKetchup/Calculator/releases/tag/1.0.0)https://github.com/GewuertzKetchup/Calculator/releases/tag/1.0.0)
+Here you can get the latest version of the calculator [Here](https://github.com/GewuertzKetchup/Calculator/releases/tag/1.0.0)
 
 And use the Calculator-1.0.0 Setup.exe to install the Calculator 
 
