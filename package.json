@@ -2,7 +2,7 @@
   "name": "Calculator",
   "productName": "Calculator",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A calculator that can add, divide, multiply, and subtract",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
