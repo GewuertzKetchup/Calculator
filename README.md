@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/GewuertzKetchup/Calculator/total?style=flat-square&label=Downloads&color=%230349fc)
 ![GitHub License](https://img.shields.io/github/license/GewuertzKetchup/Calculator?style=flat-square&label=License&color=%230349fc)
 
 # Calculator
